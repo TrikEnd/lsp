@@ -1,3 +1,8 @@
+[build]
+command = "php spark serve"
+publish="/build"
+base = "/"
+
 [[redirects]]
 from = "/*"
 to = "/index.html"
