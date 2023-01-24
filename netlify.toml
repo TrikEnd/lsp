@@ -1,4 +1,4 @@
-[[redirect]]
-from = "/"
-to = "/home.php"
+[[redirects]]
+from = "/*"
+to = "/index.html"
 status = 200
