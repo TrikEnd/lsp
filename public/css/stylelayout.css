@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #131822;
+}
+
+.navbar-brand {
+  color: #ffff;
+}
+
+.navbar-brand:hover {
+  color: #ffff;
+  transition: 0.2s;
+}
+
+.nav-link {
+  color: #ffff;
+}
+
+.nav-link:hover {
+  color: #ffff;
+  transition: 0.2s;
+}
+
+/* footer */
+
+.footer {
+  background-color: #131822;
+  width: 100%;
+  height: 80px;
+}

@@ -1,0 +1,32 @@
+.selamatdatang .container {
+  margin-top: -30px;
+  box-shadow: 0 5px 5px black;
+  background-color: #f7f7f7;
+}
+
+.gambar {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 275px;
+  background-image: url("/gambar/gedung.png");
+}
+
+.gambar h1 {
+  color: #ffff;
+  padding-top: 13%;
+  text-align: center;
+}
+
+.sambutan {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.sambutan p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  text-align: justify;
+}

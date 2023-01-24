@@ -1,0 +1,15 @@
+h1 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+img {
+  padding-top: 20px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+body {
+  font-family: sans-serif;
+}
